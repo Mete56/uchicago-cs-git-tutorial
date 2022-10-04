@@ -1,3 +1,3 @@
-Mete Bakircioglu
+Mete Bakircioglu mete
 
 # uchicago-cs-git-tutorial
